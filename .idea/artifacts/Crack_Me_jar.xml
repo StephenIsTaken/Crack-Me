@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Crack-Me:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Crack_Me_jar</output-path>
+    <root id="archive" name="Crack-Me.jar">
+      <element id="module-output" name="Crack-Me" />
+    </root>
+  </artifact>
+</component>

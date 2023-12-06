@@ -7,7 +7,6 @@ import java.util.HashMap;
 // TODO: add passwords and usernames into the pastebin link
 
 public class Database {
-
     public static final URL hwidURL;
 
     static {
