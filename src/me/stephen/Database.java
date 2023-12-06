@@ -4,7 +4,10 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.HashMap;
 
+// TODO: add passwords and usernames into the pastebin link
+
 public class Database {
+
     public static final URL hwidURL;
 
     static {
@@ -16,6 +19,7 @@ public class Database {
     }
 
     HashMap<String, String> logininfo = new HashMap<String, String>();
+
     Database() {
         logininfo.put("admin", "admin");
         logininfo.put("User", "PASSWORD123");
