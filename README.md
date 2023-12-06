@@ -8,7 +8,7 @@ Made using [JDK 8](https://www.oracle.com/ro/java/technologies/javase/javase8-ar
 Some obfuscators you can use with this:
  - [Skidfuscator](https://github.com/skidfuscatordev/skidfuscator-java-obfuscator)
  - [ProGuard](https://github.com/Guardsquare/proguard)
- - [Carsium](https://github.com/sim0n/Caesium)
+ - [Caesium](https://github.com/sim0n/Caesium)
  - [SB27](https://github.com/superblaubeere27/obfuscator)
    
 #
