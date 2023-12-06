@@ -1,9 +1,14 @@
 # Crack-Me
 Poorly made Authentification System
 Made using [JDK 8](https://www.oracle.com/ro/java/technologies/javase/javase8-archive-downloads.html)
+####
 
+![img_1.png](src/assets/img_1.png)
 
-![image](https://github.com/StephenIsTaken/Crack-Me/assets/123317160/12c96b3d-e206-49fb-8892-9fb97227593a)
+Some obfuscators you can use with this:
+ - [Skidfuscator](https://github.com/skidfuscatordev/skidfuscator-java-obfuscator)
+ - [ProGuard](https://github.com/Guardsquare/proguard)
+ - [Carsium](https://github.com/sim0n/Caesium)
 
 Credits:
 [SimpleAuth by 3000IQPlay](https://github.com/3000IQPlay/SimpleAuth)

@@ -11,7 +11,7 @@ public class Database {
 
     static {
         try {
-            hwidURL = new URL("https://pastebin.com/raw/kFqnpR3G");
+            hwidURL = new URL("https://pastebin.com/raw/GVnBbhnV");
         } catch (MalformedURLException e) {
             throw new RuntimeException(e);
         }
@@ -20,9 +20,9 @@ public class Database {
     HashMap<String, String> logininfo = new HashMap<String, String>();
 
     Database() {
-        logininfo.put("admin", "admin");
         logininfo.put("User", "PASSWORD123");
     }
+
     public HashMap getLoginInfo() {
         return logininfo;
     }
