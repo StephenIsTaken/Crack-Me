@@ -14,4 +14,4 @@ Some obfuscators you can use with this:
 #
 
 Credits:
-[SimpleAuth by 3000IQPlay](https://github.com/3000IQPlay/SimpleAuth)
+- [SimpleAuth by 3000IQPlay](https://github.com/3000IQPlay/SimpleAuth)
