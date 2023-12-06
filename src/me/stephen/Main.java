@@ -11,7 +11,7 @@ public class Main {
         if (VMDetector.isRunningOnVM()) {
             System.exit(75);
         }
-        // AntiDump.check(); // Comment this out in dev environment
+         AntiDump.check(); // Comment this out in dev environment
         Database db = new Database();
         LoginPage loginPage = new LoginPage(db.getLoginInfo());
     }
